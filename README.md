@@ -1,5 +1,6 @@
 Hai, saya Hardik kingsuep25👨‍! Saya seorang full-stack developer dengan hasrat untuk menciptakan solusi yang inovatif dan efektif 💡 Keahlian saya terletak pada Python, JavaScript, DevOps, dan banyak lagi 💻 Saya memiliki pengalaman dengan berbagai teknologi dan platform, termasuk Odoo, ERPNEXT, Django, Flask, AWS, Docker, dan Nginx 🚀
-🔭 Saat ini saya sedang mengerjakan ERPNEXT
+
+🔭 Saat ini saya sedang mengerjakan [ERPNEXT](https://erpnext.com/)
 
 🌱 Saat ini saya sedang mempelajari Docker dan alat DevOps lainnya
 
